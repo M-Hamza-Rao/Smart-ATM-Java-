@@ -1,4 +1,5 @@
 🏦 Smart ATM Management System (Java)
+
 A GUI-based Smart ATM Management System built using Java Swing. This project simulates an ATM interface for both users and admins, handling data via CSV files and utilizing file handling techniques for storing and managing user accounts, transactions, and administrative operations.
 
 📌 Features
